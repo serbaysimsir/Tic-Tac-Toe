@@ -1,0 +1,154 @@
+C:\Users\SERBAY\source\repos\XOX Oyunu\XOX Oyunu\bin\Debug\XOX Oyunu.exe.config
+C:\Users\SERBAY\source\repos\XOX Oyunu\XOX Oyunu\bin\Debug\XOX Oyunu.exe
+C:\Users\SERBAY\source\repos\XOX Oyunu\XOX Oyunu\bin\Debug\XOX Oyunu.pdb
+C:\Users\SERBAY\source\repos\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\source\repos\XOX Oyunu\XOX Oyunu\obj\Debug\XOX_Oyunu.Form1.resources
+C:\Users\SERBAY\source\repos\XOX Oyunu\XOX Oyunu\obj\Debug\XOX_Oyunu.Properties.Resources.resources
+C:\Users\SERBAY\source\repos\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.csproj.GenerateResource.Cache
+C:\Users\SERBAY\source\repos\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\source\repos\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.exe
+C:\Users\SERBAY\source\repos\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.pdb
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\XOX Oyunu.exe.config
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\XOX Oyunu.exe
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\XOX Oyunu.pdb
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\obj\Debug\XOX_Oyunu.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.exe
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.pdb
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\XOX Oyunu.exe.config
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\XOX Oyunu.exe
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\XOX Oyunu.pdb
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\obj\Debug\XOX Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\obj\Debug\XOX_Oyunu.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\obj\Debug\XOX Oyunu.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\obj\Debug\XOX Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\obj\Debug\XOX Oyunu.exe
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\obj\Debug\XOX Oyunu.pdb
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\obj\Debug\XOX_Oyunu.AnaMenu.resources
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\obj\Debug\XOX_Oyunu.Player1.resources
+C:\Users\SERBAY\Desktop\XOX Oyunu - Kopya\XOX Oyunu\obj\Debug\XOX_Oyunu.Player2.resources
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\obj\Debug\XOX_Oyunu.AnaMenu.resources
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\obj\Debug\XOX_Oyunu.Player1.resources
+C:\Users\SERBAY\Desktop\XOX Oyunu\XOX Oyunu\obj\Debug\XOX_Oyunu.Player2.resources
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\XOX Oyunu.exe.config
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\XOX Oyunu.exe
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\XOX Oyunu.pdb
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\obj\Debug\XOX_Oyunu.AnaMenu.resources
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\obj\Debug\XOX_Oyunu.Player1.resources
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\obj\Debug\XOX_Oyunu.Player2.resources
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\obj\Debug\XOX_Oyunu.Properties.Resources.resources
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.csproj.GenerateResource.Cache
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.exe
+C:\Users\SERBAY\NOTLAR\Yazılım Sınama\XOX Oyunu\XOX Oyunu\obj\Debug\XOX Oyunu.pdb
